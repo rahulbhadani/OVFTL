@@ -3,7 +3,7 @@ A matlab script to simulate optimal velocity follow the leader to demonstrate th
 
 ## License
 License: MIT License 
-Copyright Rahul Bhadani, Benjamin Seibold, Jonathan Sprinkle
+Copyright Rahul Bhadani, Benjamin Seibold, Hannah Pohlmann
 Initial Date: June 10, 2022
 Permission is hereby granted, free of charge, to any person obtaining 
 a copy of this software and associated documentation files 
